@@ -1,2 +1,2 @@
-# Examen_Final
+# Viajes_Chile
 Examen Final - Git, GitHub, para Desafio Latam.
